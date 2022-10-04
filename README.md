@@ -1,4 +1,4 @@
 - 👋 Hi, I’m: Jasurbek Toshpolatov
-- 👀 I’m interested in: python, Machine Learning, artificial intelligence
-- 🌱 I’m currently learning: Computer Vision, Data Science
-- 📫 How to reach me: Telegram: @kratkiy_ali, email: jaskabratan@gmail.com
+- 👀 I’m interested in: python, Artifical Intelligence and Machine Learning
+- 🌱 I’m currently learning: Computer Vision AI, Machine Learning
+- 📫 How to reach me: Telegram: @kratkiy_ali, Email: jaskabratan@gmail.com
